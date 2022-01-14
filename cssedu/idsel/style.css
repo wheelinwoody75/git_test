@@ -1,0 +1,25 @@
+.number1,
+.number3,
+.number5 {
+    font: Verdana;
+    background-color: rgb(236, 175, 175);
+}
+
+#title2 {
+    font: sans-serif;
+    color: #000fff;
+    font-size: 32px;
+}
+.number3{
+     font-size: 24px;
+    font: Times;
+    }
+
+    #title3 {
+        font: Verdana;
+        background-color: rgb(6, 251, 39);
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+
